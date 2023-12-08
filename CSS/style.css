@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.text {
+  color: white;
+  font-size: 30px;
+}
+.text-element {
+  height: 100px;
+  max-width: 1200px;
+  background-color: white;
+  border-radius: 5px;
+  position: fixed;
+  bottom: 100px;
+  left: 50%;
+  right: 50px;
+}
+.text-element__circle {
+  height: 100px;
+  width: 100px;
+  background-color: #d25151;
+  border-radius: 100%;
+  position: relative;
+  left: 100px;
+  bottom: 50%;
+}
